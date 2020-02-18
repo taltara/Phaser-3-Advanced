@@ -25,5 +25,3 @@ This JavaScript game example shows:
 * Arcade overlap/collide
 * Sound effects
 * Scalemanager
-
-Questions, comments -- Bas de Reuver (bdr1976@gmail.com)
